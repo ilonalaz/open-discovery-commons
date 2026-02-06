@@ -50,7 +50,7 @@ ODC is guided by the following non-negotiable principles:
    No single company owns discovery; multiple implementations are encouraged.
 
 5. **Verification over optimization**
-   Trust is derived from verification, consistency, and history — not popularity or spend.
+   Trust is derived from verification, consistency, and history – not popularity or spend.
 
 6. **Local fairness**
    Small and local businesses should be discoverable on equal terms with large brands.
@@ -196,7 +196,7 @@ Contributions are welcome from:
 * Policy and governance experts
 * Developers interested in open digital infrastructure
 
-This document is a starting point — not a finished answer.
+This document is a starting point – not a finished answer.
 
 
 **End of Draft v0.1**
