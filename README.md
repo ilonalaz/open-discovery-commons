@@ -10,7 +10,6 @@ The goal is to enable AI systems to recommend businesses based on **facts, relev
 
 This repository contains a **working draft**, not a finished system.
 
----
 
 ## What this is
 
@@ -19,7 +18,6 @@ This repository contains a **working draft**, not a finished system.
 - Neutral and non-commercial at the core
 - Intended as a shared digital commons
 
----
 
 ## What this is not
 
@@ -29,7 +27,6 @@ This repository contains a **working draft**, not a finished system.
 - Not a replacement for business websites
 - Not owned by any single entity
 
----
 
 ## Current scope
 
@@ -38,7 +35,6 @@ This repository contains a **working draft**, not a finished system.
 - Focus on factual description and trust signals
 - Discovery without paid visibility
 
----
 
 ## The draft
 
@@ -53,7 +49,6 @@ That document contains:
 - governance ideas
 - open questions
 
----
 
 ## Contributing
 
@@ -68,7 +63,6 @@ Please use **Issues** to point out:
 
 There is no roadmap and no commitment to implementation.
 
----
 
 ## Origin
 
@@ -78,6 +72,5 @@ human-driven web discovery to AI-mediated discovery.
 The intention is to explore whether discovery can remain fair,
 neutral, and trustworthy in an AI-first environment.
 
----
 
 *This document is intentionally calm, incomplete, and open-ended.*
